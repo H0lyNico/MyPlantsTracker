@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1015304043354",
+    "firebase_url": "https://myplantstracker01-default-rtdb.firebaseio.com",
+    "project_id": "myplantstracker01",
+    "storage_bucket": "myplantstracker01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015304043354:android:b5e796855009ed5acb5163",
+        "android_client_info": {
+          "package_name": "com.example.invernadero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3EWBjeZjXdlTFFSBwxuV0R77MJDFlnYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

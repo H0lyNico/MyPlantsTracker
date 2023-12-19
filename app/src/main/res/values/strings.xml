@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sensor de Humedad</string>
+    <string name="email">Email</string>
+    <string name="pass">Contraseña</string>
+    <string name="agregarplanta">Agregar Planta</string>
+    <string name="listaplanta">Lista Planta</string>
+    <string name="config">Config</string>
+    <string name="inicio_sesion">Inicio Sesion</string>
+    <string name="myplantstracker">MyPlantsTracker</string>
+    <string name="agregar_dispositivo">Agregar Dispositivo</string>
+    <string name="agregar">Agregar</string>
+    <string name="id_dispositivo">ID Dispositivo</string>
+    <string name="todo">TODO</string>
+    <string name="todos">TODO</string>
+    <string name="todoss">TODO</string>
+</resources>
